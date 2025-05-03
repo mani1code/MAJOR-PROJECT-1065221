@@ -1,0 +1,501 @@
+﻿Ion,Adsorbent,,,Operating temperature(K),Initial pH,Initial Conc. (ppm),Contact time(min),Adsorbent dosage(g/mL),Solution,Removal efficiency(%),Research Paper
+,Material - 1,Material - 2,Material - 3,,,,,,,,
+Ni,Nano Bentonite,,,298,6,50,5.4,0.0005,Aqueous,30.17,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,7.45,0.0005,Aqueous,35.36,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,11.67,0.0005,Aqueous,44.82,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,14.39,0.0005,Aqueous,49.87,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,17.52,0.0005,Aqueous,54.68,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,20.65,0.0005,Aqueous,58.15,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,23.77,0.0005,Aqueous,59.48,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,26.9,0.0005,Aqueous,60.78,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,30.02,0.0005,Aqueous,61.88,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,33.14,0.0005,Aqueous,62.83,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,36.27,0.0005,Aqueous,63.89,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,39.39,0.0005,Aqueous,65.25,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,42.51,0.0005,Aqueous,66.6,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,45.64,0.0005,Aqueous,68.22,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,48.76,0.0005,Aqueous,69.91,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,51.89,0.0005,Aqueous,71.58,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,55.01,0.0005,Aqueous,73.23,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,58.14,0.0005,Aqueous,74.74,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,61.26,0.0005,Aqueous,76.01,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,64.38,0.0005,Aqueous,77.09,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,67.51,0.0005,Aqueous,78.02,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,70.63,0.0005,Aqueous,78.85,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,73.75,0.0005,Aqueous,79.71,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,76.88,0.0005,Aqueous,80.71,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,80.12,0.0005,Aqueous,82.5,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,83.13,0.0005,Aqueous,82.9,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,86.25,0.0005,Aqueous,84.03,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,89.37,0.0005,Aqueous,85.18,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,92.5,0.0005,Aqueous,86.31,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,95.62,0.0005,Aqueous,87.45,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,98.74,0.0005,Aqueous,88.58,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,101.87,0.0005,Aqueous,89.72,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,104.99,0.0005,Aqueous,90.86,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,108.12,0.0005,Aqueous,91.99,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,111.13,0.0005,Aqueous,93.09,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,114.34,0.0005,Aqueous,94.27,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,50,117.32,0.0005,Aqueous,95.35,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,52.23,120,0.0005,Aqueous,95.86,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,58.57,120,0.0005,Aqueous,95.39,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,64.92,120,0.0005,Aqueous,95.05,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,71.27,120,0.0005,Aqueous,94.67,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,77.62,120,0.0005,Aqueous,94.34,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,83.97,120,0.0005,Aqueous,93.88,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,90.31,120,0.0005,Aqueous,93.46,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,96.66,120,0.0005,Aqueous,93.08,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,103.01,120,0.0005,Aqueous,92.68,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,109.36,120,0.0005,Aqueous,92.23,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,115.7,120,0.0005,Aqueous,91.79,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,122.05,120,0.0005,Aqueous,91.34,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,128.4,120,0.0005,Aqueous,90.9,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,134.75,120,0.0005,Aqueous,90.45,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,141.1,120,0.0005,Aqueous,90.02,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,147.44,120,0.0005,Aqueous,89.64,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,153.79,120,0.0005,Aqueous,89.21,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,160.14,120,0.0005,Aqueous,88.83,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,166.49,120,0.0005,Aqueous,88.48,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,172.83,120,0.0005,Aqueous,88.12,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,179.18,120,0.0005,Aqueous,87.78,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,185.53,120,0.0005,Aqueous,87.44,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,191.88,120,0.0005,Aqueous,87.11,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,198.23,120,0.0005,Aqueous,86.68,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,204.57,120,0.0005,Aqueous,86.43,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,210.92,120,0.0005,Aqueous,86.12,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,217.27,120,0.0005,Aqueous,85.8,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,223.62,120,0.0005,Aqueous,85.48,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,229.96,120,0.0005,Aqueous,85.17,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,236.31,120,0.0005,Aqueous,84.85,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,242.66,120,0.0005,Aqueous,84.54,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6,248.81,120,0.0005,Aqueous,84.23,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,3.05,100,120,0.0005,Aqueous,86.76,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,3.27,100,120,0.0005,Aqueous,87.32,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,3.5,100,120,0.0005,Aqueous,87.77,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,3.72,100,120,0.0005,Aqueous,88.23,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,3.95,100,120,0.0005,Aqueous,88.71,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,4.17,100,120,0.0005,Aqueous,89.15,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,4.4,100,120,0.0005,Aqueous,89.6,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,4.62,100,120,0.0005,Aqueous,90.05,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,4.85,100,120,0.0005,Aqueous,90.52,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,5.07,100,120,0.0005,Aqueous,91.06,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,5.3,100,120,0.0005,Aqueous,91.93,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,5.52,100,120,0.0005,Aqueous,92.73,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,5.75,100,120,0.0005,Aqueous,93.25,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,5.97,100,120,0.0005,Aqueous,92.92,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6.18,100,120,0.0005,Aqueous,91.6,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6.34,100,120,0.0005,Aqueous,90.09,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6.46,100,120,0.0005,Aqueous,88.5,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6.59,100,120,0.0005,Aqueous,86.86,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6.72,100,120,0.0005,Aqueous,85.19,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6.85,100,120,0.0005,Aqueous,83.57,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298,6.96,100,120,0.0005,Aqueous,82.25,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298.14,6,100,120,0.0005,Aqueous,92.88,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,298.91,6,100,120,0.0005,Aqueous,93.03,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,299.67,6,100,120,0.0005,Aqueous,93.17,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,300.44,6,100,120,0.0005,Aqueous,93.3,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,301.2,6,100,120,0.0005,Aqueous,93.45,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,301.97,6,100,120,0.0005,Aqueous,93.62,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,302.73,6,100,120,0.0005,Aqueous,93.8,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,303.5,6,100,120,0.0005,Aqueous,94.05,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,304.26,6,100,120,0.0005,Aqueous,94.34,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,305.03,6,100,120,0.0005,Aqueous,94.65,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,305.79,6,100,120,0.0005,Aqueous,94.98,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,306.56,6,100,120,0.0005,Aqueous,95.32,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,307.32,6,100,120,0.0005,Aqueous,95.68,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,308.09,6,100,120,0.0005,Aqueous,95.95,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,308.85,6,100,120,0.0005,Aqueous,96.33,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,309.62,6,100,120,0.0005,Aqueous,96.72,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,310.38,6,100,120,0.0005,Aqueous,97.11,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,311.15,6,100,120,0.0005,Aqueous,97.44,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,311.91,6,100,120,0.0005,Aqueous,97.7,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,312.68,6,100,120,0.0005,Aqueous,97.88,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,313.44,6,100,120,0.0005,Aqueous,98.03,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,314.21,6,100,120,0.0005,Aqueous,98.17,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,314.97,6,100,120,0.0005,Aqueous,98.28,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,315.74,6,100,120,0.0005,Aqueous,98.36,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,316.5,6,100,120,0.0005,Aqueous,98.44,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,317.27,6,100,120,0.0005,Aqueous,98.51,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,318.03,6,100,120,0.0005,Aqueous,98.58,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,318.8,6,100,120,0.0005,Aqueous,98.63,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,319.56,6,100,120,0.0005,Aqueous,98.7,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,320.33,6,100,120,0.0005,Aqueous,98.76,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,321.09,6,100,120,0.0005,Aqueous,98.82,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,321.86,6,100,120,0.0005,Aqueous,98.9,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Nano Bentonite,,,322.62,6,100,120,0.0005,Aqueous,98.97,https://pubmed.ncbi.nlm.nih.gov/33681500/
+Ni,Bentonite,,,298.51,5,50,120,0.002,Aqueous,77.86,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.14
+Ni,Bentonite,,,299.28,5,50,120,0.002,Aqueous,78.43,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.15
+Ni,Bentonite,,,300.04,5,50,120,0.002,Aqueous,78.98,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.16
+Ni,Bentonite,,,300.81,5,50,120,0.002,Aqueous,79.53,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.17
+Ni,Bentonite,,,301.57,5,50,120,0.002,Aqueous,80.04,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.18
+Ni,Bentonite,,,302.34,5,50,120,0.002,Aqueous,80.54,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.19
+Ni,Bentonite,,,303.1,5,50,120,0.002,Aqueous,80.97,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.20
+Ni,Bentonite,,,303.87,5,50,120,0.002,Aqueous,81.43,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.21
+Ni,Bentonite,,,304.63,5,50,120,0.002,Aqueous,81.82,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.22
+Ni,Bentonite,,,305.38,5,50,120,0.002,Aqueous,82.23,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.23
+Ni,Bentonite,,,306.16,5,50,120,0.002,Aqueous,82.65,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.24
+Ni,Bentonite,,,306.93,5,50,120,0.002,Aqueous,83.06,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.25
+Ni,Bentonite,,,307.69,5,50,120,0.002,Aqueous,83.55,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.26
+Ni,Bentonite,,,308.46,5,50,120,0.002,Aqueous,84.01,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.27
+Ni,Bentonite,,,309.23,5,50,120,0.002,Aqueous,84.55,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.28
+Ni,Bentonite,,,309.99,5,50,120,0.002,Aqueous,85.14,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.29
+Ni,Bentonite,,,310.76,5,50,120,0.002,Aqueous,85.74,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.30
+Ni,Bentonite,,,311.5,5,50,120,0.002,Aqueous,86.36,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.31
+Ni,Bentonite,,,312.29,5,50,120,0.002,Aqueous,87.01,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.32
+Ni,Bentonite,,,312.92,5,50,120,0.002,Aqueous,87.6,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.33
+Ni,Bentonite,,,298.41,5,100,120,0.002,Aqueous,70.11,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.34
+Ni,Bentonite,,,299.01,5,100,120,0.002,Aqueous,71.36,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.35
+Ni,Bentonite,,,299.7,5,100,120,0.002,Aqueous,72.77,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.36
+Ni,Bentonite,,,300.4,5,100,120,0.002,Aqueous,74.06,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.37
+Ni,Bentonite,,,301.14,5,100,120,0.002,Aqueous,75.32,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.38
+Ni,Bentonite,,,301.91,5,100,120,0.002,Aqueous,76.59,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.39
+Ni,Bentonite,,,302.67,5,100,120,0.002,Aqueous,77.65,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.40
+Ni,Bentonite,,,303.44,5,100,120,0.002,Aqueous,78.56,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.41
+Ni,Bentonite,,,304.2,5,100,120,0.002,Aqueous,79.3,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.42
+Ni,Bentonite,,,304.97,5,100,120,0.002,Aqueous,79.9,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.43
+Ni,Bentonite,,,305.75,5,100,120,0.002,Aqueous,80.38,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.44
+Ni,Bentonite,,,306.5,5,100,120,0.002,Aqueous,80.76,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.45
+Ni,Bentonite,,,307.26,5,100,120,0.002,Aqueous,81.1,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.46
+Ni,Bentonite,,,308.06,5,100,120,0.002,Aqueous,81.48,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.47
+Ni,Bentonite,,,308.79,5,100,120,0.002,Aqueous,81.73,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.48
+Ni,Bentonite,,,309.56,5,100,120,0.002,Aqueous,82.05,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.49
+Ni,Bentonite,,,310.32,5,100,120,0.002,Aqueous,82.41,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.50
+Ni,Bentonite,,,311.09,5,100,120,0.002,Aqueous,82.72,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.51
+Ni,Bentonite,,,311.85,5,100,120,0.002,Aqueous,83.07,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.52
+Ni,Bentonite,,,312.52,5,100,120,0.002,Aqueous,83.34,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.53
+Ni,Bentonite,,,298.38,5,200,120,0.002,Aqueous,65.25,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.54
+Ni,Bentonite,,,298.98,5,200,120,0.002,Aqueous,66.59,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.55
+Ni,Bentonite,,,299.58,5,200,120,0.002,Aqueous,67.92,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.56
+Ni,Bentonite,,,300.2,5,200,120,0.002,Aqueous,69.24,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.57
+Ni,Bentonite,,,300.87,5,200,120,0.002,Aqueous,70.55,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.58
+Ni,Bentonite,,,301.59,5,200,120,0.002,Aqueous,71.88,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.59
+Ni,Bentonite,,,302.33,5,200,120,0.002,Aqueous,73.08,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.60
+Ni,Bentonite,,,303.1,5,200,120,0.002,Aqueous,74.15,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.61
+Ni,Bentonite,,,303.86,5,200,120,0.002,Aqueous,75.03,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.62
+Ni,Bentonite,,,304.63,5,200,120,0.002,Aqueous,75.73,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.63
+Ni,Bentonite,,,305.4,5,200,120,0.002,Aqueous,76.25,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.64
+Ni,Bentonite,,,306.16,5,200,120,0.002,Aqueous,76.7,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.65
+Ni,Bentonite,,,306.93,5,200,120,0.002,Aqueous,77.06,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.66
+Ni,Bentonite,,,307.56,5,200,120,0.002,Aqueous,77.32,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.67
+Ni,Bentonite,,,308.46,5,200,120,0.002,Aqueous,77.65,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.68
+Ni,Bentonite,,,309.22,5,200,120,0.002,Aqueous,77.96,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.69
+Ni,Bentonite,,,309.99,5,200,120,0.002,Aqueous,78.27,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.70
+Ni,Bentonite,,,310.75,5,200,120,0.002,Aqueous,78.58,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.71
+Ni,Bentonite,,,311.52,5,200,120,0.002,Aqueous,78.89,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.72
+Ni,Bentonite,,,312.28,5,200,120,0.002,Aqueous,79.19,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.73
+Ni,Bentonite,,,312.69,5,200,120,0.002,Aqueous,79.31,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.74
+Ni,Bentonite,,,298.6,5,300,120,0.002,Aqueous,64.7,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.75
+Ni,Bentonite,,,299.36,5,300,120,0.002,Aqueous,65.65,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.76
+Ni,Bentonite,,,300.13,5,300,120,0.002,Aqueous,66.52,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.77
+Ni,Bentonite,,,300.9,5,300,120,0.002,Aqueous,67.35,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.78
+Ni,Bentonite,,,301.66,5,300,120,0.002,Aqueous,68.09,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.79
+Ni,Bentonite,,,302.43,5,300,120,0.002,Aqueous,68.78,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.80
+Ni,Bentonite,,,303.19,5,300,120,0.002,Aqueous,69.42,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.81
+Ni,Bentonite,,,303.96,5,300,120,0.002,Aqueous,69.91,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.82
+Ni,Bentonite,,,304.72,5,300,120,0.002,Aqueous,70.33,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.83
+Ni,Bentonite,,,305.49,5,300,120,0.002,Aqueous,70.67,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.84
+Ni,Bentonite,,,306.25,5,300,120,0.002,Aqueous,70.96,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.85
+Ni,Bentonite,,,307.02,5,300,120,0.002,Aqueous,71.26,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.86
+Ni,Bentonite,,,307.78,5,300,120,0.002,Aqueous,71.49,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.87
+Ni,Bentonite,,,308.55,5,300,120,0.002,Aqueous,71.72,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.88
+Ni,Bentonite,,,309.31,5,300,120,0.002,Aqueous,71.96,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.89
+Ni,Bentonite,,,310.08,5,300,120,0.002,Aqueous,72.16,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.90
+Ni,Bentonite,,,310.84,5,300,120,0.002,Aqueous,72.39,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.91
+Ni,Bentonite,,,311.61,5,300,120,0.002,Aqueous,72.61,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.92
+Ni,Bentonite,,,312.37,5,300,120,0.002,Aqueous,72.82,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.93
+Ni,Bentonite,,,312.85,5,300,120,0.002,Aqueous,72.92,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.94
+Ni,Bentonite,,,298.6,5,400,120,0.002,Aqueous,71.65,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.95
+Ni,Bentonite,,,299.37,5,400,120,0.002,Aqueous,71.87,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.96
+Ni,Bentonite,,,300.13,5,400,120,0.002,Aqueous,72.1,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.97
+Ni,Bentonite,,,300.9,5,400,120,0.002,Aqueous,72.33,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.98
+Ni,Bentonite,,,301.62,5,400,120,0.002,Aqueous,72.55,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.99
+Ni,Bentonite,,,302.41,5,400,120,0.002,Aqueous,72.81,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.100
+Ni,Bentonite,,,303.58,5,400,120,0.002,Aqueous,73.19,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.101
+Ni,Bentonite,,,304.34,5,400,120,0.002,Aqueous,73.48,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.102
+Ni,Bentonite,,,305.11,5,400,120,0.002,Aqueous,73.77,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.103
+Ni,Bentonite,,,305.87,5,400,120,0.002,Aqueous,74.07,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.104
+Ni,Bentonite,,,306.64,5,400,120,0.002,Aqueous,74.36,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.105
+Ni,Bentonite,,,307.4,5,400,120,0.002,Aqueous,74.65,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.106
+Ni,Bentonite,,,308.26,5,400,120,0.002,Aqueous,74.91,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.107
+Ni,Bentonite,,,308.93,5,400,120,0.002,Aqueous,75.16,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.108
+Ni,Bentonite,,,309.7,5,400,120,0.002,Aqueous,75.39,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.109
+Ni,Bentonite,,,310.46,5,400,120,0.002,Aqueous,75.6,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.110
+Ni,Bentonite,,,311.23,5,400,120,0.002,Aqueous,75.83,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.111
+Ni,Bentonite,,,311.99,5,400,120,0.002,Aqueous,76.02,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.112
+Ni,Bentonite,,,312.57,5,400,120,0.002,Aqueous,76.14,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.113
+Ni,Bentonite,,,298,2.15,100,120,0.002,Aqueous,20.72,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.114
+Ni,Bentonite,,,298,2.59,100,120,0.002,Aqueous,28.15,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.115
+Ni,Bentonite,,,298,3.07,100,120,0.002,Aqueous,34.79,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.116
+Ni,Bentonite,,,298,3.6,100,120,0.002,Aqueous,39.25,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.117
+Ni,Bentonite,,,298,4.12,100,120,0.002,Aqueous,42.09,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.118
+Ni,Bentonite,,,298,4.65,100,120,0.002,Aqueous,43.97,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.119
+Ni,Bentonite,,,298,5.18,100,120,0.002,Aqueous,46.01,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.120
+Ni,Bentonite,,,298,5.71,100,120,0.002,Aqueous,48.58,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.121
+Ni,Bentonite,,,298,6.23,100,120,0.002,Aqueous,51.28,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.122
+Ni,Bentonite,,,298,6.76,100,120,0.002,Aqueous,55.65,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.123
+Ni,Bentonite,,,298,7.2,100,120,0.002,Aqueous,62.64,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.124
+Ni,Bentonite,,,298,7.55,100,120,0.002,Aqueous,70,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.125
+Ni,Bentonite,,,298,7.83,100,120,0.002,Aqueous,76.51,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.126
+Ni,Bentonite,,,298,8.18,100,120,0.002,Aqueous,83.41,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.127
+Ni,Bentonite,,,298,8.65,100,120,0.002,Aqueous,90.6,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.128
+Ni,Bentonite,,,298,8.98,100,120,0.002,Aqueous,94.83,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.129
+Ni,Bentonite,,,298,5,58.54,120,0.004,Aqueous,83.05,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.130
+Ni,Bentonite,,,298,5,77.3,120,0.004,Aqueous,82.28,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.131
+Ni,Bentonite,,,298,5,96.07,120,0.004,Aqueous,81.44,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.132
+Ni,Bentonite,,,298,5,114.83,120,0.004,Aqueous,80.42,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.133
+Ni,Bentonite,,,298,5,133.59,120,0.004,Aqueous,79.28,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.134
+Ni,Bentonite,,,298,5,152.35,120,0.004,Aqueous,78.26,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.135
+Ni,Bentonite,,,298,5,171.11,120,0.004,Aqueous,77.32,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.136
+Ni,Bentonite,,,298,5,189.87,120,0.004,Aqueous,76.49,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.137
+Ni,Bentonite,,,298,5,208.63,120,0.004,Aqueous,75.7,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.138
+Ni,Bentonite,,,298,5,227.4,120,0.004,Aqueous,75.13,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.139
+Ni,Bentonite,,,298,5,246.17,120,0.004,Aqueous,74.61,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.140
+Ni,Bentonite,,,298,5,264.93,120,0.004,Aqueous,74.2,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.141
+Ni,Bentonite,,,298,5,283.7,120,0.004,Aqueous,73.78,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.142
+Ni,Bentonite,,,298,5,296.61,120,0.004,Aqueous,73.63,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.143
+Ni,Bentonite,,,298,5,56.17,120,0.0028,Aqueous,80.95,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.144
+Ni,Bentonite,,,298,5,74.93,120,0.0028,Aqueous,80.02,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.145
+Ni,Bentonite,,,298,5,93.69,120,0.0028,Aqueous,79.14,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.146
+Ni,Bentonite,,,298,5,112.45,120,0.0028,Aqueous,78.27,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.147
+Ni,Bentonite,,,298,5,131.21,120,0.0028,Aqueous,77.41,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.148
+Ni,Bentonite,,,298,5,149.98,120,0.0028,Aqueous,76.61,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.149
+Ni,Bentonite,,,298,5,168.74,120,0.0028,Aqueous,75.84,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.150
+Ni,Bentonite,,,298,5,187.51,120,0.0028,Aqueous,75.16,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.151
+Ni,Bentonite,,,298,5,206.27,120,0.0028,Aqueous,74.5,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.152
+Ni,Bentonite,,,298,5,225.04,120,0.0028,Aqueous,73.93,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.153
+Ni,Bentonite,,,298,5,243.8,120,0.0028,Aqueous,73.43,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.154
+Ni,Bentonite,,,298,5,262.57,120,0.0028,Aqueous,72.98,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.155
+Ni,Bentonite,,,298,5,281.34,120,0.0028,Aqueous,72.57,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.156
+Ni,Bentonite,,,298,5,297.18,120,0.0028,Aqueous,72.2,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.157
+Ni,Bentonite,,,298,5,56.14,120,0.002,Aqueous,79.23,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.158
+Ni,Bentonite,,,298,5,75.34,120,0.002,Aqueous,78.37,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.159
+Ni,Bentonite,,,298,5,93.67,120,0.002,Aqueous,77.54,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.160
+Ni,Bentonite,,,298,5,112.43,120,0.002,Aqueous,76.64,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.161
+Ni,Bentonite,,,298,5,131.19,120,0.002,Aqueous,75.74,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.162
+Ni,Bentonite,,,298,5,149.95,120,0.002,Aqueous,74.87,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.163
+Ni,Bentonite,,,298,5,168.72,120,0.002,Aqueous,74.07,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.164
+Ni,Bentonite,,,298,5,187.48,120,0.002,Aqueous,73.36,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.165
+Ni,Bentonite,,,298,5,206.25,120,0.002,Aqueous,72.8,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.166
+Ni,Bentonite,,,298,5,225.02,120,0.002,Aqueous,72.35,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.167
+Ni,Bentonite,,,298,5,243.79,120,0.002,Aqueous,72,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.168
+Ni,Bentonite,,,298,5,262.56,120,0.002,Aqueous,71.76,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.169
+Ni,Bentonite,,,298,5,281.33,120,0.002,Aqueous,71.56,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.170
+Ni,Bentonite,,,298,5,295.41,120,0.002,Aqueous,71.48,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.171
+Ni,Bentonite,,,298,5,56.12,120,0.0012,Aqueous,77.08,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.172
+Ni,Bentonite,,,298,5,74.88,120,0.0012,Aqueous,76.03,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.173
+Ni,Bentonite,,,298,5,93.64,120,0.0012,Aqueous,75.04,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.174
+Ni,Bentonite,,,298,5,112.4,120,0.0012,Aqueous,74.16,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.175
+Ni,Bentonite,,,298,5,131.16,120,0.0012,Aqueous,73.37,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.176
+Ni,Bentonite,,,298,5,149.93,120,0.0012,Aqueous,72.68,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.177
+Ni,Bentonite,,,298,5,168.69,120,0.0012,Aqueous,72.05,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.178
+Ni,Bentonite,,,298,5,187.46,120,0.0012,Aqueous,71.51,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.179
+Ni,Bentonite,,,298,5,206.23,120,0.0012,Aqueous,71.06,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.180
+Ni,Bentonite,,,298,5,225,120,0.0012,Aqueous,70.74,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.181
+Ni,Bentonite,,,298,5,243.77,120,0.0012,Aqueous,70.48,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.182
+Ni,Bentonite,,,298,5,262.54,120,0.0012,Aqueous,70.27,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.183
+Ni,Bentonite,,,298,5,281.31,120,0.0012,Aqueous,70.13,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.184
+Ni,Bentonite,,,298,5,295.97,120,0.0012,Aqueous,69.98,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.185
+Ni,Bentonite,,,298,5,60.76,120,0.0004,Aqueous,73.19,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.186
+Ni,Bentonite,,,298,5,79.52,120,0.0004,Aqueous,72.04,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.187
+Ni,Bentonite,,,298,5,98.28,120,0.0004,Aqueous,71.2,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.188
+Ni,Bentonite,,,298,5,117.05,120,0.0004,Aqueous,70.65,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.189
+Ni,Bentonite,,,298,5,135.82,120,0.0004,Aqueous,70.3,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.190
+Ni,Bentonite,,,298,5,154.59,120,0.0004,Aqueous,70.06,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.191
+Ni,Bentonite,,,298,5,173.36,120,0.0004,Aqueous,69.88,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.192
+Ni,Bentonite,,,298,5,190.64,120,0.0004,Aqueous,69.71,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.193
+Ni,Bentonite,,,298,5,210.9,120,0.0004,Aqueous,69.55,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.194
+Ni,Bentonite,,,298,5,229.67,120,0.0004,Aqueous,69.4,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.195
+Ni,Bentonite,,,298,5,248.44,120,0.0004,Aqueous,69.21,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.196
+Ni,Bentonite,,,298,5,267.21,120,0.0004,Aqueous,69.03,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.197
+Ni,Bentonite,,,298,5,285.99,120,0.0004,Aqueous,68.85,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.198
+Ni,Bentonite,,,298,5,295.96,120,0.0004,Aqueous,68.72,https://www.sciencepublishinggroup.com/article/10.11648/j.ijee.20170204.199
+Ni,Nigerian Bentonite Clay,,,298,6,11.02,30,0.02,Aqueous,80.14,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,12.63,30,0.02,Aqueous,79.36,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,14.23,30,0.02,Aqueous,78.53,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,15.84,30,0.02,Aqueous,77.69,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,17.45,30,0.02,Aqueous,76.83,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,19.06,30,0.02,Aqueous,76.02,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,20.67,30,0.02,Aqueous,75.38,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,22.28,30,0.02,Aqueous,74.81,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,23.88,30,0.02,Aqueous,74.31,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,25.49,30,0.02,Aqueous,73.74,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,27.1,30,0.02,Aqueous,73.27,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,28.71,30,0.02,Aqueous,72.74,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,30.32,30,0.02,Aqueous,72.26,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,31.92,30,0.02,Aqueous,70.61,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,33.53,30,0.02,Aqueous,69.23,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,35.14,30,0.02,Aqueous,67.76,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,36.75,30,0.02,Aqueous,66.34,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Nigerian Bentonite Clay,,,298,6,38.36,30,0.02,Aqueous,64.95,https://watermark.silverchair.com/wpt0160825.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAABBEwggQNBgkqhkiG9w0BBwagggP-MIID-gIBADCCA_MGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMzqffEoVUcYH79N0TAgEQgIIDxDmA38VTxgCmjjCYpu1he4dyeVyMd9QtXqetCUAA80absUTUcjTrdAQY57ooHZmCOZ9q2j7BnB1_mZ5H22VNUi5gcrL-MYbJp99D7dm2QklOm1boIuB_OYpJcW8JXzsLz0M0pgoKEFN-qoZv6Q6M2Vm5BzeHu6Ri-co-xpvtKttU3SKOgy-P6r7pQwcIU1Do5HhHVOKhpwOBdpC9simUbyTAMClYB8ed48rPBSt99D7WcS4eWO-uh4Jl1yj2CspX8qKVoWKO9IOOpwpWweNuSS4TrlYoKp93NbfOOR0JrSqCLypOMtuJeuaHgVBSyw8cULZwe4cdsvdg7QG9b_QzrG4lqaGNKa9DXPeZ-uTOTuvEXBncJLCfRl4nAvJCXKKswhwWzoYTtB8Nr6MwH5YHoENvV-X5m4IPFdC2OCqxiXM2S4eg3_ivNJO4Gyp2SzFkdS7EPFsb2VjV4dOYbyNKyz5zOkztxnbV6qqdwM2XiN-q3-9pExbxLTsxa7bUgDP0mNG64vxEsLWqvB9T9N_vjYDLUXrVuM-lJTfwNU-NwDm6rrCCWK-l-3ODTTWg2lqUUcUnEM3dCDONH9RjaOfgSxWNpgtS616bT_BEmGtkFqVHZIiHJQVBupsb1i_NGGSgQIhGipHESQAoqOCwn1rqQJGGpiRxXk_57O9NjLgwjffjo_9s60F3pMfI441UpxcT9tyKdk7bc_WurfFIuJpK1Y3xGwM4k_S9OPyLZOGGOOYFylLMtbs53RUftyKH133eMbt6YqMevoslbQ58F9iK5AJ1jezo9HcTg79myrhHy4nvTsJHwCsML0mBnQG1SXEUN5cEzaEVFtRnoujlwSP0eVWv-PdWlAl8Qa102HkUh4nxEdxYIGgq3_zzfepj8WeULq2ZTwODkM_awQof-yF6q5_Gml7rsvJwLdlM5y6bQFmV5KiXaQkiODvz7kvUpWimsdb7gTrXwpOZ-LmTw726EFuA7Etp1H5rBp-bARtbw4SQfyfZsM1RVfeOPuVLs3QVP3PADk1-0LXvqOxzF8eFrbv_U30_1SNK9bS8a9aSPr5AX7Z90ZVFJz9Z898y9WHieHxeHCmcdve-PV7RlmdeEb-C3bKlZ6uJbjgZx9pRSrq8mNtWisePWleJk28i9E-EUrzi--J0h60uvNwqUQoygigmUaZ2FMY2mDtAjt51Y3LmslnZFxbHvOPIfVCrfTE6PdDy6L7gh_ZrPs6DOK4HWiN_0JGFNA5bDCnVBzOulL_47y-nCc9LAzROASujGweYRnrHhVE
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,56.3,120,0.005,Aqueous,96.28,https://www.mdpi.com/1996-1944/14/2/282
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,67.98,120,0.005,Aqueous,92.68,https://www.mdpi.com/1996-1944/14/2/283
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,79.67,120,0.005,Aqueous,89.15,https://www.mdpi.com/1996-1944/14/2/284
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,91.36,120,0.005,Aqueous,85.7,https://www.mdpi.com/1996-1944/14/2/285
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,103.04,120,0.005,Aqueous,82.32,https://www.mdpi.com/1996-1944/14/2/286
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,114.73,120,0.005,Aqueous,78.99,https://www.mdpi.com/1996-1944/14/2/287
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,126.42,120,0.005,Aqueous,75.57,https://www.mdpi.com/1996-1944/14/2/288
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,138.1,120,0.005,Aqueous,72.2,https://www.mdpi.com/1996-1944/14/2/289
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,149.79,120,0.005,Aqueous,68.94,https://www.mdpi.com/1996-1944/14/2/290
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,161.47,120,0.005,Aqueous,65.68,https://www.mdpi.com/1996-1944/14/2/291
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,172.87,120,0.005,Aqueous,62.68,https://www.mdpi.com/1996-1944/14/2/292
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,185.33,120,0.005,Aqueous,59.48,https://www.mdpi.com/1996-1944/14/2/293
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,196.53,120,0.005,Aqueous,56.81,https://www.mdpi.com/1996-1944/14/2/294
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,208.22,120,0.005,Aqueous,54.15,https://www.mdpi.com/1996-1944/14/2/295
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,219.74,120,0.005,Aqueous,51.85,https://www.mdpi.com/1996-1944/14/2/296
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,230.43,120,0.005,Aqueous,49.71,https://www.mdpi.com/1996-1944/14/2/297
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,243.91,120,0.005,Aqueous,46.83,https://www.mdpi.com/1996-1944/14/2/298
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,255.59,120,0.005,Aqueous,44.49,https://www.mdpi.com/1996-1944/14/2/299
+Ni,Bentonite JP,Montmorillonites,Sodium Carbonate,293,5.85,263.07,120,0.005,Aqueous,42.61,https://www.mdpi.com/1996-1944/14/2/300
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,51.01,120,0.005,Aqueous,73.4,https://www.mdpi.com/1996-1944/14/2/301
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,62.33,120,0.005,Aqueous,67.04,https://www.mdpi.com/1996-1944/14/2/302
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,73.65,120,0.005,Aqueous,60.81,https://www.mdpi.com/1996-1944/14/2/303
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,85.33,120,0.005,Aqueous,55.64,https://www.mdpi.com/1996-1944/14/2/304
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,97.02,120,0.005,Aqueous,51.62,https://www.mdpi.com/1996-1944/14/2/305
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,108.7,120,0.005,Aqueous,48.22,https://www.mdpi.com/1996-1944/14/2/306
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,120.39,120,0.005,Aqueous,45.21,https://www.mdpi.com/1996-1944/14/2/307
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,132.07,120,0.005,Aqueous,42.34,https://www.mdpi.com/1996-1944/14/2/308
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,143.76,120,0.005,Aqueous,39.71,https://www.mdpi.com/1996-1944/14/2/309
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,155.44,120,0.005,Aqueous,37.11,https://www.mdpi.com/1996-1944/14/2/310
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,167.12,120,0.005,Aqueous,34.78,https://www.mdpi.com/1996-1944/14/2/311
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,178.81,120,0.005,Aqueous,32.5,https://www.mdpi.com/1996-1944/14/2/312
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,190.49,120,0.005,Aqueous,30.43,https://www.mdpi.com/1996-1944/14/2/313
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,202.18,120,0.005,Aqueous,28.64,https://www.mdpi.com/1996-1944/14/2/314
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,213.86,120,0.005,Aqueous,27.04,https://www.mdpi.com/1996-1944/14/2/315
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,225.55,120,0.005,Aqueous,25.63,https://www.mdpi.com/1996-1944/14/2/316
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,237.23,120,0.005,Aqueous,24.42,https://www.mdpi.com/1996-1944/14/2/317
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,248.91,120,0.005,Aqueous,23.17,https://www.mdpi.com/1996-1944/14/2/318
+Ni,Bentonite L,"Silica (SiO2, 63.4%)","Alumina (Al2O3, 22.3%)",293,5.85,260.23,120,0.005,Aqueous,21.8,https://www.mdpi.com/1996-1944/14/2/319
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,51.74,120,0.005,Aqueous,58.14,https://www.mdpi.com/1996-1944/14/2/320
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,63.43,120,0.005,Aqueous,52.18,https://www.mdpi.com/1996-1944/14/2/321
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,75.11,120,0.005,Aqueous,46.51,https://www.mdpi.com/1996-1944/14/2/322
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,86.62,120,0.005,Aqueous,42.07,https://www.mdpi.com/1996-1944/14/2/323
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,98.48,120,0.005,Aqueous,38.7,https://www.mdpi.com/1996-1944/14/2/324
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,110.16,120,0.005,Aqueous,35.88,https://www.mdpi.com/1996-1944/14/2/325
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,121.85,120,0.005,Aqueous,33.38,https://www.mdpi.com/1996-1944/14/2/326
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,133.53,120,0.005,Aqueous,31.06,https://www.mdpi.com/1996-1944/14/2/327
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,145.22,120,0.005,Aqueous,29.02,https://www.mdpi.com/1996-1944/14/2/328
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,156.9,120,0.005,Aqueous,26.93,https://www.mdpi.com/1996-1944/14/2/329
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,168.74,120,0.005,Aqueous,24.98,https://www.mdpi.com/1996-1944/14/2/330
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,180.27,120,0.005,Aqueous,23.18,https://www.mdpi.com/1996-1944/14/2/331
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,191.95,120,0.005,Aqueous,21.54,https://www.mdpi.com/1996-1944/14/2/332
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,203.42,120,0.005,Aqueous,20.11,https://www.mdpi.com/1996-1944/14/2/333
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,214.68,120,0.005,Aqueous,18.96,https://www.mdpi.com/1996-1944/14/2/334
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,227.01,120,0.005,Aqueous,17.88,https://www.mdpi.com/1996-1944/14/2/335
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,238.69,120,0.005,Aqueous,16.8,https://www.mdpi.com/1996-1944/14/2/336
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,250.37,120,0.005,Aqueous,15.74,https://www.mdpi.com/1996-1944/14/2/337
+Ni,Bentonite S,"Silica (SiO2, 70.8%)","Alumina (Al2O3, 17.5%)",293,5.85,260.96,120,0.005,Aqueous,14.73,https://www.mdpi.com/1996-1944/14/2/338
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,53.2,120,0.005,Aqueous,97.89,https://www.mdpi.com/1996-1944/14/2/339
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,64.89,120,0.005,Aqueous,95.72,https://www.mdpi.com/1996-1944/14/2/340
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,76.57,120,0.005,Aqueous,93.37,https://www.mdpi.com/1996-1944/14/2/341
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,88.26,120,0.005,Aqueous,90.51,https://www.mdpi.com/1996-1944/14/2/342
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,99.94,120,0.005,Aqueous,87.15,https://www.mdpi.com/1996-1944/14/2/343
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,111.62,120,0.005,Aqueous,83.25,https://www.mdpi.com/1996-1944/14/2/344
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,123.31,120,0.005,Aqueous,79.2,https://www.mdpi.com/1996-1944/14/2/345
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,134.99,120,0.005,Aqueous,75.16,https://www.mdpi.com/1996-1944/14/2/346
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,146.68,120,0.005,Aqueous,71.06,https://www.mdpi.com/1996-1944/14/2/347
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,158.36,120,0.005,Aqueous,67.09,https://www.mdpi.com/1996-1944/14/2/348
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,170.05,120,0.005,Aqueous,63.36,https://www.mdpi.com/1996-1944/14/2/349
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,181.73,120,0.005,Aqueous,60.06,https://www.mdpi.com/1996-1944/14/2/350
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,193.41,120,0.005,Aqueous,57.06,https://www.mdpi.com/1996-1944/14/2/351
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,205.1,120,0.005,Aqueous,54.39,https://www.mdpi.com/1996-1944/14/2/352
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,216.78,120,0.005,Aqueous,52.09,https://www.mdpi.com/1996-1944/14/2/353
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,228.47,120,0.005,Aqueous,49.83,https://www.mdpi.com/1996-1944/14/2/354
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,240.15,120,0.005,Aqueous,47.71,https://www.mdpi.com/1996-1944/14/2/355
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,251.84,120,0.005,Aqueous,45.62,https://www.mdpi.com/1996-1944/14/2/356
+Ni,Bentonite SK,"Silica (SiO2, 56.5%)","Alumina (Al2O3, 18.2%)",293,5.85,261.69,120,0.005,Aqueous,43.77,https://www.mdpi.com/1996-1944/14/2/357
+Ni,Natural Syrian Zeolite,,,298,6,100,39.592,0.006,Aqueous,43.696,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,63.039,0.006,Aqueous,57.379,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,89.853,0.006,Aqueous,66.189,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,116.116,0.006,Aqueous,71.873,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,143.499,0.006,Aqueous,76.733,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,170.328,0.006,Aqueous,79.67,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,197.155,0.006,Aqueous,82.965,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,223.983,0.006,Aqueous,86.183,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,250.813,0.006,Aqueous,88.559,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,277.642,0.006,Aqueous,91.42,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,304.472,0.006,Aqueous,93.95,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,331.303,0.006,Aqueous,95.917,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,360.805,0.006,Aqueous,96.793,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,384.97,0.006,Aqueous,97.761,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,411.806,0.006,Aqueous,97.764,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,438.642,0.006,Aqueous,97.768,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,465.478,0.006,Aqueous,97.694,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,492.314,0.006,Aqueous,97.749,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,519.15,0.006,Aqueous,97.777,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,545.986,0.006,Aqueous,97.781,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,572.822,0.006,Aqueous,97.784,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6,100,592.109,0.006,Aqueous,98.369,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,3.34,100,360,0.006,Aqueous,94.87,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,3.87,100,360,0.006,Aqueous,95.78,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,4.34,100,360,0.006,Aqueous,96.81,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,4.78,100,360,0.006,Aqueous,97.78,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,5.34,100,360,0.006,Aqueous,98.23,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,5.87,100,360,0.006,Aqueous,98.22,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6.41,100,360,0.006,Aqueous,98.9,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,6.96,100,360,0.006,Aqueous,99.8,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,7.48,100,360,0.006,Aqueous,100,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Natural Syrian Zeolite,,,298,7.92,100,360,0.006,Aqueous,100,https://globaljournals.org/GJSFR_Volume15/3-Adsorption-and-Kinetic-Study.pdf
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00024,Aqueous,58.282,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00028,Aqueous,58.362,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00032,Aqueous,58.442,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00036,Aqueous,58.5,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00078,Aqueous,58.619,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00114,Aqueous,58.665,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00138,Aqueous,58.712,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00162,Aqueous,58.762,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00184,Aqueous,58.806,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00224,Aqueous,58.839,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00258,Aqueous,58.842,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00296,Aqueous,58.845,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00336,Aqueous,58.848,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00376,Aqueous,58.851,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00414,Aqueous,58.855,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00454,Aqueous,58.858,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00492,Aqueous,58.861,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00532,Aqueous,58.864,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Jordan Natural Zeolite,,,303,4,20,240,0.00572,Aqueous,58.867,"https://www.sciencedirect.com/science/article/pii/S1319610321000387#:~:text=JNZ%20was%20successfully%20employed%20to,temperature%20on%20the%20Ni(II)"
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00025,Aqueous,30.47,https://www.nature.com/articles/s41598-024-81947-1
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00039,Aqueous,36.66,https://www.nature.com/articles/s41598-024-81947-2
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00051,Aqueous,42.76,https://www.nature.com/articles/s41598-024-81947-3
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00062,Aqueous,49.25,https://www.nature.com/articles/s41598-024-81947-4
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00072,Aqueous,55.06,https://www.nature.com/articles/s41598-024-81947-5
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00081,Aqueous,60.99,https://www.nature.com/articles/s41598-024-81947-6
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.0009,Aqueous,66.59,https://www.nature.com/articles/s41598-024-81947-7
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00101,Aqueous,72.63,https://www.nature.com/articles/s41598-024-81947-8
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00113,Aqueous,77.97,https://www.nature.com/articles/s41598-024-81947-9
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00127,Aqueous,83.72,https://www.nature.com/articles/s41598-024-81947-10
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00142,Aqueous,89.33,https://www.nature.com/articles/s41598-024-81947-11
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00155,Aqueous,93.48,https://www.nature.com/articles/s41598-024-81947-12
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00169,Aqueous,95.52,https://www.nature.com/articles/s41598-024-81947-13
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00184,Aqueous,97.45,https://www.nature.com/articles/s41598-024-81947-14
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00199,Aqueous,99.38,https://www.nature.com/articles/s41598-024-81947-15
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00214,Aqueous,99.56,https://www.nature.com/articles/s41598-024-81947-16
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00229,Aqueous,99.57,https://www.nature.com/articles/s41598-024-81947-17
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00244,Aqueous,99.73,https://www.nature.com/articles/s41598-024-81947-18
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00259,Aqueous,99.74,https://www.nature.com/articles/s41598-024-81947-19
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00274,Aqueous,99.75,https://www.nature.com/articles/s41598-024-81947-20
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.00288,Aqueous,99.75,https://www.nature.com/articles/s41598-024-81947-21
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7,30,240,0.003,Aqueous,99.77,https://www.nature.com/articles/s41598-024-81947-22
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,2.59,30,240,0.0015,Aqueous,35.71,https://www.nature.com/articles/s41598-024-81947-23
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,2.87,30,240,0.0015,Aqueous,41.58,https://www.nature.com/articles/s41598-024-81947-24
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,3.1,30,240,0.0015,Aqueous,46.51,https://www.nature.com/articles/s41598-024-81947-25
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,3.33,30,240,0.0015,Aqueous,51.49,https://www.nature.com/articles/s41598-024-81947-26
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,3.56,30,240,0.0015,Aqueous,56.46,https://www.nature.com/articles/s41598-024-81947-27
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,3.78,30,240,0.0015,Aqueous,61.23,https://www.nature.com/articles/s41598-024-81947-28
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,4.08,30,240,0.0015,Aqueous,66.8,https://www.nature.com/articles/s41598-024-81947-29
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,4.49,30,240,0.0015,Aqueous,71.48,https://www.nature.com/articles/s41598-024-81947-30
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,4.9,30,240,0.0015,Aqueous,76.04,https://www.nature.com/articles/s41598-024-81947-31
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,5.31,30,240,0.0015,Aqueous,80.61,https://www.nature.com/articles/s41598-024-81947-32
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,5.72,30,240,0.0015,Aqueous,85.16,https://www.nature.com/articles/s41598-024-81947-33
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,6.12,30,240,0.0015,Aqueous,89.74,https://www.nature.com/articles/s41598-024-81947-34
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,6.53,30,240,0.0015,Aqueous,94.3,https://www.nature.com/articles/s41598-024-81947-35
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,6.94,30,240,0.0015,Aqueous,98.96,https://www.nature.com/articles/s41598-024-81947-36
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7.4,30,240,0.0015,Aqueous,99.61,https://www.nature.com/articles/s41598-024-81947-37
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,7.81,30,240,0.0015,Aqueous,99.69,https://www.nature.com/articles/s41598-024-81947-38
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,8.22,30,240,0.0015,Aqueous,99.69,https://www.nature.com/articles/s41598-024-81947-39
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,8.61,30,240,0.0015,Aqueous,99.69,https://www.nature.com/articles/s41598-024-81947-40
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,9.07,30,240,0.0015,Aqueous,99.58,https://www.nature.com/articles/s41598-024-81947-41
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,9.49,30,240,0.0015,Aqueous,99.69,https://www.nature.com/articles/s41598-024-81947-42
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,9.9,30,240,0.0015,Aqueous,99.69,https://www.nature.com/articles/s41598-024-81947-43
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,10.31,30,240,0.0015,Aqueous,99.51,https://www.nature.com/articles/s41598-024-81947-44
+Ni,Zeolite,Zinc Oxide and MgO,Iron Oxide(Fe3O4),295,10.54,30,240,0.0015,Aqueous,99.61,https://www.nature.com/articles/s41598-024-81947-45
